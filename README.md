@@ -1,1 +1,1 @@
-# csdd1008_Fall24_week1
+Added the ReadMe file as per the requirement given!
